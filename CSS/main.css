@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Eater|Just+Me+Again+Down+Here');
+/*font-family: 'Eater', cursive;
+font-family: 'Amatic SC', cursive;
+font-family: 'Just Me Again Down Here', cursive;*/
+
+body{
+    font-family: 'Eater', cursive;
+}
+
+#navbar{
+    background-color: black;
+    font-family: 'Eater';
+    opacity: 0.7;
+    transition: 2s;
+}
