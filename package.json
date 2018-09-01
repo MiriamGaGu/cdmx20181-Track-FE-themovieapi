@@ -27,4 +27,17 @@
   "dependencies": {
     "eslint": "^5.4.0"
   }
+
+  {
+    "type": "service_account",
+    "project_id": "horrormovies-68cd4",
+    "private_key_id": "deb9f7464186c719e01603a4e57f6f68874c4aa6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD2RPt5uFKx3rnw\nzBvplfyU8Hs2K26ec0lq/ZESLmGIvDvd7GD9zQOy+JS8l+LlZgT7eOGc2HLEXbAH\nKkQq/j5KVHHTf6PUH9LBmsXGzQQnqLUdvwBdh6E6JrGrAGKKIzk+kXI7/SzDGRuT\ngAWlWML92XpFvyeZhRGn3VTiPo/ZScvh6X6WZeAcwBGcNMY7CSkh5pqCETNTycYg\nwLhOYofZubuV196RZvers7V6SM4cwGLOUYlMzgLiF3EEk9ggKmL3/R2NIm4F+QJ+\nsJjwbJL5YNW+S74jrGYMUS/TUFvK1OdgBB0QjqFOtZwRyzJW9zAgBaVMbp1m0CW9\nDmK1PDHXAgMBAAECggEABSaMMTovAJQCmjaqnsgJmv6B6oVzWtJZHBO8OlUd/8Nw\nEm7PLdUL2W0O2fg96+5Q9wbK29eVuZBRY3+kIqy5QMoOAg5kBBu7nLD6p0htEydE\nInXMMX3qBqf92fBiyeDStwGeZ1ge3OBkOJbaMgsZM5XzfgycF2nhD1G3D2703eZ9\nYZfhBM7B+kKIRJgDqHLdMGgyVFqor9Qoxj5XU419Yq1iyuZn16wwSjvHWMJxqYj9\nGYvOG9X84Evv5ZapyxdTpCw/V6haplMWoCS8XB8OZ9qk29cz14/huHxeIsQdS5v4\nDlM4X5JLf5SkygzBdPhLgOi1ptnvBRyy02mMey8qgQKBgQD9rM1BAcrWX603i7VX\nzvdzD3PIqEG14c4WUF4ZRttbg2yZ+FKdHh9p6+lFtOT3h+HBinXmDy0DzYifMYvk\nkxSiI0IaADGgQURwYqWekVLr0HQvhipX4ib0onLElozW1oQFhUASkUZLxzabPj1z\nZJ/13nasphhY8YhExhjiuroNPQKBgQD4hs4OYteHjmkKifhpWunPXCaatoNXoGSp\n4vp7z9euy9KVm811m135ICbHk7+Gpc5y+HuT3jvCI9h+3MNV1pZ88KRxY6inKrsd\n9RCck8EGfeVLW7rcBw0sHYaFTEf9iP+DSzZWrRpwEuzBUcVe/3YEvUkDsGAgxsPn\n6q/KzIEUowKBgQCqJR4ibQZUlSXEbNN8CtiT9xhMzPYN/V9SPiNvRsRYdCUCfLlE\novClBdOXqoYstJoqSyla3nDt7Qym4f+Xl0MuoQF0GQ8wErbJvpChc42vl0hmm9GI\n0qoYSWE7FFNwwb8ZSM+55HDG4N5yb+Odoy9bJRRqJpmMBqzEnC4S3PVvbQKBgQC4\n5Oml8Eky03M4YP8LupRaLc+WqJQ8e9qIPZJmzHFE3OSVY21OwsD+F7piHnyN+wsF\no/GkR+CjhbGKaEl2sggReaKNrTwK6hJ9rhWmt5ISd1VAZEU3bpORL4Il52NjrymR\nD0Kk53HU0W+MP36cN2ghDIWmlfBeUiHrh0EzmkOqCwKBgA4uWvPH/ToGYI03ff3k\n+yCaCZE+q6VYifMMx9LMzSxws2TOomhQtufAHRPr+Wwxy6omqybvMIcOg0o/Dm01\ngwl9JF4TqoY5zYp2AREOguByw4WSyxS47/e1kq93SKWKKZRMjHKlsXa/BbBKDKm+\nbODQrF3HdU814FxiMS6wG6u+\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-2vweu@horrormovies-68cd4.iam.gserviceaccount.com",
+    "client_id": "109975934844529155638",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2vweu%40horrormovies-68cd4.iam.gserviceaccount.com"
+  }
 }
